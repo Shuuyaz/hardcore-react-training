@@ -9,8 +9,7 @@ const HotReloadTester: FC = () => {
         marginBlock: "1rem"
       }}
     >
-      I am the text that will change without reloading when you edit me and save
-      the file
+      KAkkaa ja ripulia
     </p>
   );
 };
